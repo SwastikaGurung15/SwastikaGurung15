@@ -10,8 +10,8 @@
 - 💡 **Skills**: UI/UX Design, Wireframing, Prototyping, Visual Design  
 - 🛠 **Tools**: Figma, Canva  
 - 🌐 **Languages**: HTML, CSS  
-- 🔗 **Portfolio**: [swastikagurung.com.np](https://swastikagurung.com.np) *(if available)*  
-- 📧 **Email**: swastikagurung@example.com *(replace with your actual email)*  
+- 🔗 **Portfolio**: [swastikagurung.com.np](https://swastikagurung.com.np) 
+- 📧 **Email**: swastkagurung@gmail.com
 - 🎭 **Fun Fact**: When I'm not designing, you’ll find me exploring art and creativity!
 
 ---
